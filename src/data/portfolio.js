@@ -13,13 +13,13 @@ export const personalInfo = {
   role: "Full Stack Developer",
   tagline: "Building Modern Web Experiences",
   email: "kambleshubham181105@gmail.com",
-  phone: "", // TODO: Add your phone number if desired
+  phone: "8424038772", // TODO: Add your phone number if desired
   github: "https://github.com/shubhamkamble18",
   linkedin: "https://www.linkedin.com/in/shubham-kamble-579ba7286/",
   location: "Mumbai, India",
   resumePath,
   heroDescription:
-    "Passionate developer focused on building modern, responsive and user-friendly web applications using React, JavaScript, PHP, MySQL and modern web technologies.",
+    "Passionate developer focused on building modern, responsive and user-friendly web applications using React, JavaScript, Java, Python , MySQL and modern web technologies.",
   aboutDescription:
     "I'm a passionate software developer who enjoys transforming ideas into functional and visually appealing web applications. I have experience working with frontend and backend technologies and continuously improve my skills by building real-world projects.",
   aboutExtended:
