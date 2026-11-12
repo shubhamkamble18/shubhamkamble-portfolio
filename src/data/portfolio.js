@@ -45,7 +45,7 @@ export const aboutCards = [
     id: 2,
     title: "Backend Development",
     description:
-      "Creating robust server-side logic with PHP, Node.js and RESTful APIs.",
+      "Creating robust server-side logic with Python, Java and RESTful APIs.",
     icon: "Server",
   },
   {
