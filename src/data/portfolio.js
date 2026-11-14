@@ -1,4 +1,3 @@
-
 import resumePath from "../images/ShubhamKamble-resume.pdf";
 
 /**
